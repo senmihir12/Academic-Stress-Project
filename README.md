@@ -63,7 +63,7 @@ Screenshots of queries and results (to be added in repo).
 
 Clone the repository:
 
-git clone https://github.com/your-username/Academic-Stress-Analysis.git
+git clone https://github.com/senmihir12/Academic-Stress-Analysis.git
 
 
 Import the dataset into MySQL Workbench.
